@@ -1,3 +1,5 @@
+Brain-Training-Privacy
+Privacy Policy for the Brain Training App
 # Privacy Policy for Brain Training
 
 Brain Training collects and processes personal data only to provide app functionality, such as authentication and saving scores.  
